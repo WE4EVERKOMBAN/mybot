@@ -2,13 +2,13 @@ module.exports = {
 
     mongoLink:'mongodb+srv://Alwayshelpeper56@cluster0.n6rlw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',//database link
     
-    bot_token:'5287469980:AAH-r1Qkb3qiq4L3b1mOWNI',//bot token
+    bot_token:'5401083533:AAHPjAQlOZ3OKYKnNVszEnNG6vbFDirtUxg-',//bot token
     
-    bot_name:'MetaJokerAirdropBot',//bot username without @
+    bot_name:'Jeja_jw_Bot',//bot username without @
     
     bot_admin:1680884053,// admin telegram id
     
-    channelsList : ['@Helpeveryone5','@Facinated_Airdrops','@FacinatingAirdrops','@unicorn_drops'],// channels list
+    channelsList : [''],// channels list
     
     reffer_bonus:10000,// refferal bonus amount
     
@@ -24,6 +24,6 @@ module.exports = {
     
     cb_account_id:'',// counbase account id for the bot currency
     
-    payment_channel:'@PayoutsHelper'// payment channel username
+    payment_channel:''// payment channel username
     
     }
